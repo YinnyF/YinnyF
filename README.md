@@ -1,10 +1,10 @@
 ### Hi there, I'm Cynthia 👋
 
-* 🌱 Currently learning: Java
-* 🐝 Available to work!
-* 🍯 Recent Makers Academy graduate
-* 💛 Aspiring Software Engineer
-* 📍 Location: London, UK 🇬🇧
+* 🌱  Currently learning: Java
+* 🐝  Available to work!
+* 🍯  Recent Makers Academy graduate
+* 💛  Aspiring Software Engineer
+* 📍  Location: London, UK 🇬🇧
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cynthia%20Fu-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ycfu/)](https://www.linkedin.com/in/ycfu/)
