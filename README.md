@@ -32,7 +32,7 @@
 
 ## ⚡️ GitHub stats
 
-### Recent Activity
+<!-- ### Recent Activity -->
 
 <!--START_SECTION:activity-->
 
