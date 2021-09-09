@@ -18,16 +18,14 @@
 
 
 ## Project Highlights
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinnyF&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinnyF&repo=pin-my-hike&theme=tokyonight&show_icons=false&hide_border=true)](https://github.com/YinnyF/pin-my-hike)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinnyF&repo=bank_tech_test&theme=tokyonight&show_icons=false&hide_border=true)](https://github.com/YinnyF/bank_tech_test)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinnyF&repo=acebook-rails-soda&theme=tokyonight&show_icons=false)](https://github.com/YinnyF/acebook-rails-soda) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinnyF&repo=instagram-challenge&theme=tokyonight&show_icons=false&hide_border=true)](https://github.com/YinnyF/instagram-challenge)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinnyF&repo=news-summary-challenge&theme=tokyonight&show_icons=false&hide_border=true)](https://github.com/YinnyF/news-summary-challenge)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinnyF&repo=bowling-challenge&theme=tokyonight&show_icons=false&hide_border=true)](https://github.com/YinnyF/bowling-challenge)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YinnyF&repo=bowling-challenge-ruby&theme=tokyonight&show_icons=false&hide_border=true)](https://github.com/YinnyF/bowling-challenge-ruby)
+<p align="center">
+    <a href="https://github.com/YinnyF/pin-my-hike"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YinnyF&repo=pin-my-hike&theme=tokyonight&show_icons=false&hide_border=true" alt="Readme Card" width="400"/></a>
+    <a href="https://github.com/YinnyF/news-summary-challenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YinnyF&repo=news-summary-challenge&theme=tokyonight&show_icons=false&hide_border=true" alt="Readme Card" width="400"/></a>
+    <a href="https://github.com/YinnyF/instagram-challenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YinnyF&repo=instagram-challenge&theme=tokyonight&show_icons=false&hide_border=true" alt="Readme Card" width="400"/></a>
+    <a href="https://github.com/YinnyF/bank_tech_test"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YinnyF&repo=bank_tech_test&theme=tokyonight&show_icons=false&hide_border=true" alt="Readme Card" width="400"/></a>
+    <a href="https://github.com/YinnyF/bowling-challenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YinnyF&repo=bowling-challenge&theme=tokyonight&show_icons=false&hide_border=true" alt="Readme Card" width="400"/></a>
+    <a href="https://github.com/YinnyF/bowling-challenge-ruby"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YinnyF&repo=bowling-challenge-ruby&theme=tokyonight&show_icons=false&hide_border=true" alt="Readme Card" width="400"/></a>
+</p>
 
 
 ## ⚡️ GitHub stats
@@ -38,8 +36,9 @@
 
 <!--END_SECTION:activity-->
 
-
-[![Cynthia's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinnyF&show_icons=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinnyF&layout=compact&theme=tokyonight&exclude_repo=skills-workshops,course)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=YinnyF&show_icons=true&theme=tokyonight&show_icons=true" alt="Cynthia's GitHub stats"/><br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YinnyF&layout=compact&theme=tokyonight&exclude_repo=skills-workshops,course" alt="Cynthia's Top Langs"/>
+    </a>
+</p>
