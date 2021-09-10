@@ -5,11 +5,12 @@
 * 🍯  Recent Makers Academy graduate
 * 💛  Aspiring Software Engineer
 * 📍  Location: London, UK 🇬🇧
-
+* 🌻  DM me on LinkedIn
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cynthia%20Fu-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ycfu/)](https://www.linkedin.com/in/ycfu/)
 [![Codewars Badge](https://www.codewars.com/users/Yinnikkuma/badges/micro)](https://www.codewars.com/users/Yinnikkuma)
 [![GitHub Follow](https://img.shields.io/github/followers/YinnyF?label=Follow&style=social)](https://github.com/YinnyF/?tab=follow)
+[![GitHub CV](https://img.shields.io/badge/CV-Cynthia%20Fu-blue)](https://github.com/YinnyF/CV)
 
 
 ## Languages & Tech
