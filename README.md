@@ -1,6 +1,6 @@
 ### Hi there, I'm Cynthia 👋
 
-* 🌱  Currently learning: Java
+* 🌱  Currently learning: Algorithms
 * 🐝  Available to work!
 * 🍯  Recent Makers Academy graduate
 * 💛  Aspiring Software Engineer
@@ -11,6 +11,7 @@
 [![Codewars Badge](https://www.codewars.com/users/Yinnikkuma/badges/micro)](https://www.codewars.com/users/Yinnikkuma)
 [![GitHub Follow](https://img.shields.io/github/followers/YinnyF?label=Follow&style=social)](https://github.com/YinnyF/?tab=follow)
 [![GitHub CV](https://img.shields.io/badge/CV-Cynthia%20Fu-blue)](https://github.com/YinnyF/CV)
+[![HackerRank](https://img.shields.io/badge/HackerRank-YinnyF-brightgreen)](https://www.hackerrank.com/yinnyf)
 
 
 ## Languages & Tech
